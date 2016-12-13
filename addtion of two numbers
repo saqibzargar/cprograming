@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+int number1,number2;//decleration
+
+number1=10;
+number2=20;
+
+number2=number1+number2;
+
+
+printf("addtion is %d",number2);
+
+  return 0;
+}

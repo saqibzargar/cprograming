@@ -1,4 +1,4 @@
-// Author: Murilo Ferreira
+
 
 #include <stdio.h>
 

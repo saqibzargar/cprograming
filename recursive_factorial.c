@@ -1,7 +1,4 @@
 /* 
- * @Author: Abderrezzaq Sendjasni
- * @Email: sendjasni.abderrezzaq@gmail.com
- *
  * Recursive Factorial Code 
  */
 #include <stdio.h>
